@@ -1,8 +1,9 @@
-![alt text]([http://url/to/img.png](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80))
+c![maxresdefault](https://user-images.githubusercontent.com/99432929/202240261-665bff0f-3286-4119-9e7a-7aa64e1596e7.jpg)
+ollaborate on ...
 - 👋 Hi, I’m Prashanat Anand
 - 👀 I’m interested in 
 - 🌱 I’m currently learning JAVA Back-End Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
 
 <!---
