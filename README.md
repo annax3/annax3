@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/prashantiet/">
-<img align="left" alt="Prashant LinkedIN" width="22px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="28" />
+  <img align="left" alt="Krutika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <p align="center">
@@ -23,15 +23,23 @@ interested in obtaining a software developer position to
 work on enhancing the product experience.
 </p>
 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 👋 Hi, I’m Prashanat Anand
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JAVA Back-End Development
-- 💞️ I’m looking to 
-- 📫 Portfolio ... annax3.github.io
+
+- 👀 I’m interested in Problem Solving and Learn and Explore New Technologies
+
+- 🌱 Learning **Java Backend & Full-Stack Web Development**
+
+- 🎯 Hobbies :**coding📕 | Photography | travelling | Cooking | Watching Movies | planting 🪴\***
+
+- 📫 Portfolio **https://annax3.github.io/**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **906120anand@gmail.com**
+
+![Profile views](https://gpvc.arturio.dev/annax3)
 
 <!---
 annax3/annax3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
