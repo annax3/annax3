@@ -6,7 +6,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Prashant 👦🏽; I am a Back-End%20web%20developer 👨🏻‍💻;Traveller 🌏;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Prashant 👦🏽; I am a Back-End%20web%20developer 👨🏻‍💻;open source contributor 🌏;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <a href="https://www.linkedin.com/in/prashantiet/">
@@ -45,3 +45,33 @@ work on enhancing the product experience.
 annax3/annax3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
+<br/>
+
+## GitHub Stats:
+
+<p align="center">
+<img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=annax3&show_icons=true&theme=gruvbox"/> 
+</p>
+
+<br/>
+
+<p align="center">
+<img width="50%" align="center" src ="https://streak-stats.demolab.com/?user=annax3&theme=dark"/> 
+</p>
+
+<br/>
+
+<p align="center">
+<img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=annax3&layout=compact&hide=php"/>
+</p>
+
+## Languages and Tools:
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,bootstrap,js,idea,vscode,aws,netlify,git,github)
+
+## GitHub Trophies:
+
+<p align="center">
+<img width="65%" src ="https://github-profile-trophy.vercel.app/?username=annax3&theme=onedark"/>
+</p>
