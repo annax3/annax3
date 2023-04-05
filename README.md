@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=annax3&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=syammed2924&layout=compact">
   </p>
 <br>
 
