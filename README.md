@@ -40,6 +40,7 @@ work on enhancing the product experience.
 - 📫 How to reach me **906120anand@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/annax3)
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2995?logoColor=dark%26project=%26recentMS=0%26showProject=true)
 
 <!---
 annax3/annax3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
