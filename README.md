@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
 <img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=annax3&show_icons=true&theme=gruvbox"/> 
 </p>
 
@@ -64,7 +64,18 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=annax3&layout=compact&hide=php"/>
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annax3&show_icons=true&theme=radical&border_radius=20px">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annax3&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
+
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=syammed2924&layout=compact">
+  </p>
+<br>
 
 ## Languages and Tools:
 
