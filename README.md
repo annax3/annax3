@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/prashantiet/">
-  <img align="left" alt="Krutika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <p align="center">
