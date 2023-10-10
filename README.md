@@ -18,6 +18,7 @@
   </a>
 </p>
 
+
 <p align="center">
   Aspiring JAVA Back-End development professional with good communication skills and 6 months of hands-on experience in web development. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal-oriented projects. Strongly interested in obtaining a software developer position to work on enhancing the product experience.
 </p>
