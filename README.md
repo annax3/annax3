@@ -39,7 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/cyberoctane29" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="cyberoctane29" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/annax3/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="saswat seth" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/annax3/](https://www.linkedin.com/in/prashantiet/)" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="saswat seth" height="30" width="40" /></a>
 <a href="https://instagram.com/imanandx3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/128px-Instagram_logo_2016.svg.png" alt="_.sasquatch._" height="40" width="40" /></a>
 </p>
 
